@@ -1,3 +1,12 @@
+> **drasticstatic working copy** — Used by the [Fortuna trading system](https://github.com/drasticstatic/trading-assistant). This is an independent repo created from a local clone of [verygoodplugins/robinhood-mcp](https://github.com/verygoodplugins/robinhood-mcp). Upstream is tracked as a remote for voluntary comparison — changes are reviewed before applying.
+> 
+> ```bash
+> # Check for upstream updates (review before applying)
+> git fetch upstream && git log upstream/main --oneline
+> ```
+
+---
+
 <!-- mcp-name: io.github.verygoodplugins/robinhood-mcp -->
 
 # robinhood-mcp
