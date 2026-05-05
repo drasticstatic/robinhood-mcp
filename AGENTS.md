@@ -80,6 +80,12 @@ robinhood-mcp
 
 ---
 
+## Override System
+
+Create `AGENTS.override.md` for temporary task-specific rules. Delete when done. Template: `~/code/my-template/AGENTS.override.md`
+
+---
+
 ## Canonical References
 
 - `CLAUDE.md` — Project overview, architecture, and session rules
