@@ -90,3 +90,8 @@ dmypy.json
 uv.lock
 .mcpregistry_github_token
 .mcpregistry_registry_token
+
+# Graphify — local-only outputs (graph.json, GRAPH_REPORT.md, graph.html are committed)
+graphify-out/manifest.json
+graphify-out/cost.json
+graphify-out/cache/
